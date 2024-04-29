@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>9dc0a5e5</title>
+    <title>f47c204a</title>
 </head>
 
 <?php 
@@ -54,7 +54,7 @@
             <input type="text" name="pass" id="pass" />
         </p>
 
-        <button type="submit" onclick="return sub();">Log In</button>
+        <button type="submit" onclick="return sub();">Please log in</button>
 
     </form>
 
